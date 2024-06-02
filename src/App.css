@@ -1,0 +1,28 @@
+.App{
+  text-align: center ;
+  border: 4px grey solid;
+  width: 300px;
+  /* height: 300px; */
+  background-color: black;
+  margin: auto;
+  margin-top: 100px;
+  box-shadow: 2px  black 10px;
+  /* border-radius: 20px; */
+
+}
+.App input{
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  background-color:white;
+  border-radius: 10px;
+  color:black;
+}
+.out{
+  width: 80% !important;
+  background-color: aliceblue !important;
+  color: black !important;
+  margin: auto;
+}
